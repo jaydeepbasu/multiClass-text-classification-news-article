@@ -1,0 +1,10 @@
+pandas==1.0.5
+numpy==1.18.5
+json==2.0.9
+sklearn==0.20.2
+nltk==3.5
+re==2.2.1
+bs4==4.6.3
+gensim==4.0.1
+matplotlib==3.2.2
+seaborn==0.10.1
